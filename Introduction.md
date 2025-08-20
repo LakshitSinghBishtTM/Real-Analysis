@@ -7,7 +7,7 @@ It serves both as a learning log and as a resource for others interested in Real
 
 ## Repository Contents
 
-- **Notes/** – Structured notes covering major topics:
+- **Notes** – Structured notes covering major topics:
   - Sequences & Series of Real Numbers
   - Limits & Continuity
   - Differentiation
@@ -16,9 +16,9 @@ It serves both as a learning log and as a resource for others interested in Real
   - Metric Spaces & Normed Spaces
   - Measure Theory (advanced)
 
-- **Exercises/** – Problem sets with solutions and discussions
+- **Exercises** – Problem sets with solutions and discussions
 
-- **References/** – Recommended textbooks, lecture notes, and research papers
+- **References** – Recommended textbooks, lecture notes, and research papers
 
 ---
 
