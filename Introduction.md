@@ -1,11 +1,11 @@
-# 📘 Real Analysis – Notes & Resources
+# Real Analysis – Notes & Resources
 
 This repository contains my study notes, exercises, and references for **Real Analysis**, developed during my M.Sc. Mathematics & Computing program.  
 It serves both as a learning log and as a resource for others interested in Real Analysis.
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 - **Notes/** – Structured notes covering major topics:
   - Sequences & Series of Real Numbers
@@ -22,7 +22,7 @@ It serves both as a learning log and as a resource for others interested in Real
 
 ---
 
-## 📚 Suggested References
+## Suggested References
 
 - Walter Rudin – *Principles of Mathematical Analysis*  
 - Tom Apostol – *Mathematical Analysis*  
@@ -31,7 +31,7 @@ It serves both as a learning log and as a resource for others interested in Real
 
 ---
 
-## 🔗 Related Academic Profiles
+## Related Academic Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=cAZxaQMAAAAJ)  
 - [ORCID](https://orcid.org/0009-0004-0035-5714)  
