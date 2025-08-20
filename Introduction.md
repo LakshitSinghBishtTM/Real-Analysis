@@ -39,6 +39,6 @@ It serves both as a learning log and as a resource for others interested in Real
 
 ---
 
-## 📜 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).  
