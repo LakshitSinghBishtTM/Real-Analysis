@@ -1,4 +1,4 @@
-# MAT102 – Real Analysis
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0492eaa5-955a-474e-a43f-cfaf992adda5" /># MAT102 – Real Analysis
 
 ## Course Objectives
 - Build fundamental concepts in Real Analysis.
@@ -23,7 +23,7 @@
 
 ## Index
 1. [Chapter 1]
-2. [Chapter 2] 
+2. [Chapter 2](https://github.com/LakshitSinghBishtTM/Real-Analysis/blob/main/Chapter2.pdf)
 3. [Chapter 3]  
 4. [Chapter 4]
 5. [Chapter 5]
