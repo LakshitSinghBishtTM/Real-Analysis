@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0492eaa5-955a-474e-a43f-cfaf992adda5" /># MAT102 – Real Analysis
+# MAT102 – Real Analysis
 
 ## Course Objectives
 - Build fundamental concepts in Real Analysis.
